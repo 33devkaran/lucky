@@ -1,0 +1,207 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.header{
+  background-image: url('header-bg.png');
+  background-size: contain;
+background-repeat: no-repeat;
+background-position: center;
+height: 110px;
+left: 0;
+right: 0;
+z-index: 110;
+position: fixed;
+bottom: 0%;
+top: 0%;
+}
+.part1 {
+  height: 53px;
+  width: 100%;
+}
+
+.logo {
+  width: 21%;
+}.logo img {
+  /* width: 90%; */
+  height: 38px;
+  width: 137px;
+}
+
+img {
+  margin: 5px 0px 0px -7px;
+} 
+.main-box{
+  padding: 13px 2px 0px 210px;
+}
+
+
+
+.header-box {
+  padding: 27px 18px 12px 73px;
+  display: flex;
+}
+.nav-links{
+  list-style: none;
+  display: flex !important;
+  
+}
+ul.nav-links li {
+  padding: 0px 0px 0px 47px;
+}ul.nav-links li a {
+  text-decoration: none;
+  color: white;
+  font-size: 11px;
+}.container {
+  width: 84%;
+ }.names {
+  width: 40%;
+  height: 241px;
+}.part2 {
+  display: flex;
+    padding: 45px 0px 0px 0px;
+}.part3 {
+  width: 44%;
+  height: 241px;
+  margin: 0px 1px 7px 127px;
+}
+button{
+        color:white;
+        background-color:rgb(203, 76, 207) ;
+        border-radius: 5px;
+        border-style: none;
+}
+h1{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 35px;
+  font-weight: bolder;
+}
+h2{
+  color: palevioletred;
+}
+.name2 {
+  text-align: center;
+  margin-top: 171px;
+}
+.dev{
+  color: rgb(90, 87, 87);
+  font-size: 10px;
+}
+span{
+  font-size: 25px;
+font-family: capitalize;
+}
+.pankaj{
+  color: palevioletred;
+}
+.form {
+  margin-top: 70px;
+  display: flex;
+  text-align: center;
+}
+.card {
+  margin: 0px 0px 8px 13px;
+}
+.susma1{
+  display: flex;
+}
+.susma2{
+  width: 200px;
+  height: 150px;
+  margin: 15px 42px 3px 64px;
+}
+
+.susma4{
+  width: 200px;
+  height: 150px;
+}
+.susma3{
+  text-align:center;
+  height: 50px;
+
+}
+.kk{
+  font-size: 13px;
+  color: rgb(159, 157, 155);
+}
+.spam1{
+  color: palevioletred;
+}
+spam{
+  font-size: 28px;
+  font-weight: 900;
+
+}
+.pk{
+  font-size: 11px;
+  color: rgb(98, 100, 101);
+
+}
+.raj1{
+margin: 35px;
+
+}
+.raj3{
+  border: solid rgb(249, 164, 164) 2px;
+margin: 15px;
+padding: 15px 30px;
+} 
+.raj4{
+  border: solid rgb(232, 165, 165) 2px;
+  margin: 15px;
+  padding: 15px 30px;
+}
+.raj5{
+  border: solid rgb(227, 156, 156) 2px;
+  margin: 15px;
+  padding: 15px 30px;
+}
+.raj6{
+  border: solid rgb(215, 134, 134) 2px;
+  margin: 15px;
+  padding: 15px 30px;
+}
+.raj{
+  display: flex;
+  
+}
+.paj img{
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  height: 263px;
+  width: 200px;
+}
+
+
+.paj{
+  display: flex;
+  width: 450px;
+}
+.paj2{ 
+  text-align: left;
+
+}
+.paj1 {
+  margin: 18px 52px 0px 0px;
+}
+p.par {
+  font-size: 14px;
+}
+p.par2 {
+  font-size: 14px;
+
+  padding: 12px 0px 0px 0px;
+}  
+.you{
+  background-image: url('https://templatemo.com/templates/templatemo_573_eduwell/assets/images/cta-bg.png');
+  height:150vh;
+  background-size:cover;
+  background-position: center;
+  
+}
+.you1{display: flex;
+      
+}
